@@ -1,5 +1,5 @@
 ---
-title: "Bubble Wrap Production Analysis"
+title: "Factory Production Analysis"
 author: "Corey Huang"
 date: "12/6/2021"
 output:
